@@ -1,7 +1,7 @@
 import XCTest
-@testable import PicoMLXCore
+@testable import MLXKit
 
-final class PicoMLXCoreTests: XCTestCase {
+final class MLXKitTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
